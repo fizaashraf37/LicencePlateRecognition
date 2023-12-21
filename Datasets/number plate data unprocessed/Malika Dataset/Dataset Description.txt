@@ -1,0 +1,12 @@
+License Plate Detection and Recognition Dataset
+
+
+Description:
+Thius datasset is collected from different sources like google, and videos from multiple areas of diffrent cities.
+The dataset covers maximum scenarios like illumination(Day or Night), weather conditions, occlusion etc. There are total
+10000 images collected from different cities (Lahore, Islamabad, Karachi, Multan, KPK) and 500 videos of equal 
+duration.   
+
+Videos: 500
+Images: 10,000
+Categories: 37 (26 for each Alphabet, 10 for each digit, and one for license plate)

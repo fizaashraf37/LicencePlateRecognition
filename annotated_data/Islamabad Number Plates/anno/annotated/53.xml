@@ -1,0 +1,38 @@
+<annotation>
+	<folder>plates</folder>
+	<filename>53.jpg</filename>
+	<path>E:\Islamabad Number Plates\plates\53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>537</ymin>
+			<xmax>2066</xmax>
+			<ymax>1407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2120</xmin>
+			<ymin>784</ymin>
+			<xmax>2490</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>

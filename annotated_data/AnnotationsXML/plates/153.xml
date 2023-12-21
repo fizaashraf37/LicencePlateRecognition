@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plates</folder>
+	<filename>153.jpg</filename>
+	<path>E:\Islamabad Number Plates\plates\153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>739</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>258</ymin>
+			<xmax>407</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

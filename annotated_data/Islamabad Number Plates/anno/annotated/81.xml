@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plates</folder>
+	<filename>81.jpg</filename>
+	<path>E:\Islamabad Number Plates\plates\81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>349</ymin>
+			<xmax>563</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plates</folder>
+	<filename>188.jpg</filename>
+	<path>E:\Islamabad Number Plates\plates\188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>733</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>489</ymin>
+			<xmax>488</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

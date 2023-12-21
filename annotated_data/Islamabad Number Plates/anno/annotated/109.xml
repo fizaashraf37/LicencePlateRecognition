@@ -1,0 +1,38 @@
+<annotation>
+	<folder>plates</folder>
+	<filename>109.jpg</filename>
+	<path>E:\Islamabad Number Plates\plates\109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>43</ymin>
+			<xmax>659</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>745</ymin>
+			<xmax>594</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+</annotation>
